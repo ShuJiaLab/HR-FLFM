@@ -1,6 +1,6 @@
 # PSF Correction/Calibration Manual
 
-This is a program for generating <u>hybrid PSF</u>.
+This is a program for generating hybrid PSF.
 
 Before you run the process, please <ins>get the experimental PSFs and Simulated PSFs ready</ins>. 
 
