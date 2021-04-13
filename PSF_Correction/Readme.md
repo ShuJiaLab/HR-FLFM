@@ -18,8 +18,10 @@ Before you run the process, please <ins>get the experimental PSFs and Simulated 
 * Use “Export Vars” to export and save the “Offset” into .mat format.
 * Use “Load Offset” to load the saved offset values.
 * Start rough aligning first. The status will show the process.
-* Then setup and the “Fine Tune Resizing scale” to 10.
-* Use the “Fine tune” to check if the fine displacement.
+* Use "Get Centroids" to estimate the location of the PSF points on each layer.
+* Then setup the “Fine Tune Resizing scale” to 10.
+* Use the “Fine tune” to check if the fine displacement is continuous and linear.
 * Start fine aligning. The status will show the process.
+*  \[Optional\] You can set the fine tune resizing scale to 100 and repeat the last 4 steps above to make the lateral displacement more "smooth", but note that this also requires more processing time.
 
 * Try to stack the calibrated hybrid PSFs into a single .mat file for further reconstruction.
