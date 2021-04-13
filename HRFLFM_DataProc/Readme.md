@@ -13,7 +13,8 @@ This package is for data preprocessing and HR-FLFM 3D reconstruction. It is deve
 This section contains two methods of background subtraction:
 
 -  Background subtraction by offset
--  Background subtraction by rolling ball algorithm [**beta**]
+-  Background subtraction by rolling ball algorithm [**beta**]. 
+ - - *For better quality, please use the background subtraction in ImageJ instead.*
 
 This is mainly for thick samples which has more background caused by out-of-focus structures.
 
