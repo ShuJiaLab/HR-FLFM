@@ -6,7 +6,7 @@ Before you run the process, please <ins>get the experimental PSFs and Simulated 
 
 > **Note 1** The simulated PSFs should be in **.mat** format and should be stored in a folder layer by layer separately. The experimental PSF should be in **.tif** format and should be stored in a folder layer by layer separately as well.
 
-> **Note 2** The filename should be in a format of <Latin letters>+<arabic numbders>+<suffix>. The <arabic numbers> should be centered at <ins>50000</ins> (this matches the data acquired by MCL objective lens positioner).
+> **Note 2** The filename should be in a format of \<Latin letters\>+\<arabic numbders\>+\<suffix\>. The <arabic numbers> should be centered at <ins>50000</ins> (this matches the data acquired by MCL objective lens positioner).
 
 ### Procedure
 
