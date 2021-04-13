@@ -8,7 +8,7 @@ Before you run the process, please <ins>get the experimental PSFs and Simulated 
 
 > **Note 2** The filename should be in a format of \<Latin letters\>+\<arabic numbders\>+\<suffix\>. The <arabic numbers> should be centered at <ins>50000</ins> (this matches the data acquired by MCL objective lens positioner).
 
-### Procedure
+### Procedures
 
 * Set up simulated PSF folder and experimental PSF folder. If the files are correctly recognized, you can see “50000” shown in the “Sim-Exp Frame No” label, two previews shown in the figure boxes and you can preview other images using “backward” and “forward” buttons.
 * Use the two “Get 3 ROIs” to determine the positions of the three PSF points for both simulated and experimental PSFs.
