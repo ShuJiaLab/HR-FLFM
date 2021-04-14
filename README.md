@@ -10,12 +10,12 @@
 [![Biagio's Github](https://img.shields.io/badge/Biagio's-Github-blueviolet)](https://github.com/bmandracchia)
 
 ## HRFLFM DataProc
-The package includes the data pre-processing, the image background subtraction, ACsN denoising algorithm and the HR-FLFM 3D reconstruction codes.
-Some prerequisites include a Nvidia GPU with enough GPU memories, Matlab 2020 or later, a multi-core CPU with enough CPU memories.
+<p>The package includes the data pre-processing, the image background subtraction, ACsN denoising algorithm and the HR-FLFM 3D reconstruction codes.</p>
+<p>Some prerequisites include a Nvidia GPU with enough GPU memories, Matlab 2020 or later, a multi-core CPU with enough CPU memories.</p>
 **Use DataProc4HRFLFM.mlapp file for a good start!**
 
 ## PSF Correction
-This package includes the method of generating hybrid FLFM PSFs for 3D reconstruction. Make sure to get your simulated PSFs and experimental PSFs ready before using the program. Play with the parameters to make sure it works the best for your microscopic system.
+<p>This package includes the method of generating hybrid FLFM PSFs for 3D reconstruction. Make sure to get your simulated PSFs and experimental PSFs ready before using the program. Play with the parameters to make sure it works the best for your microscopic system.</p>
 **Use PSFCorrManual.mlapp file for a good start!**
 
 ## ACsN
